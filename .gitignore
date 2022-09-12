@@ -1,2 +1,5 @@
 CICDSample/obj/
 CICDSample/bin/
+bin/Debug/
+obj/
+.vs/
